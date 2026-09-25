@@ -1,3 +1,4 @@
+```jsx
 export default function About() {
   return (
     <section id="about" className="border-b border-slate-200 bg-stone-50">
@@ -26,10 +27,10 @@ export default function About() {
               </p>
 
               <p>
-                I work primarily with Java and Spring Boot, building REST APIs,
-                implementing business logic, designing relational databases
-                with MySQL, and developing authentication and authorization
-                systems.
+                I work with Java and Spring Boot, as well as Python, Django and
+                Django REST Framework, building REST APIs, implementing
+                business logic, designing databases, and developing
+                authentication and authorization systems.
               </p>
 
               <p>
@@ -40,9 +41,9 @@ export default function About() {
 
               <p>
                 My engineering approach is test-driven and practical. I use
-                JUnit and Mockito to verify application behaviour, Docker to
-                create consistent environments, and Git-based workflows to
-                keep development structured.
+                JUnit and Mockito for Java applications, Docker to create
+                consistent development environments, and Git-based workflows
+                to keep development structured.
               </p>
 
               <p>
@@ -81,3 +82,4 @@ export default function About() {
     </section>
   );
 }
+```
