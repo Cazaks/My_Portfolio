@@ -1,4 +1,4 @@
-```jsx
+
 export default function About() {
   return (
     <section id="about" className="border-b border-slate-200 bg-stone-50">
@@ -82,4 +82,4 @@ export default function About() {
     </section>
   );
 }
-```
+
