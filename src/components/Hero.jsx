@@ -76,6 +76,11 @@ export default function Hero() {
                 <p className="mt-1 text-xs text-slate-500">Backend</p>
               </div>
 
+              <div className="border-b border-slate-300 px-4 py-5 sm:border-b-0 sm:border-r sm:px-5">
+                <p className="text-sm font-bold text-slate-950">Python</p>
+                <p className="mt-1 text-xs text-slate-500">Backend</p>
+              </div>
+
               <div className="border-r border-slate-300 px-4 py-5 sm:px-5">
                 <p className="text-sm font-bold text-slate-950">MySQL</p>
                 <p className="mt-1 text-xs text-slate-500">Database</p>
