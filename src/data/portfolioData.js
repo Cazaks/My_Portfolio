@@ -97,6 +97,24 @@ export const projects = [
   },
 
   {
+    title: "De_ServicerHuB",
+    category: "Backend / Service Market Place",
+    description: "A Django REST Framework backend for a service marketplace platform where customers can request services and service providers can manage their profiles and service areas.",
+    technologies:[
+       "Python",
+      "Django",
+      "Django REST Framework",
+      "PostgreSQL",
+      "Docker",
+      "Gunicorn",
+      "Render",
+    ],
+    github: "https://github.com/Cazaks/DE_ServiceHuB",
+    demo: "https://de-servicehub.onrender.com",
+    featured: true,
+  },
+
+  {
     title: "FakeAway",
     category: "Frontend / Event Ticketing",
     description:
