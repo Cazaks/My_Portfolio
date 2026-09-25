@@ -12,18 +12,21 @@ export const skills = [
     ],
   },
   {
-    category: "Backend",
-    items: [
-      "Java",
-      "Spring Boot",
-      "Spring Data JPA",
-      "Hibernate",
-      "REST APIs",
-      "JWT Authentication",
-      "DTOs",
-      "Exception Handling",
-    ],
-  },
+  category: "Backend",
+  items: [
+    "Java",
+    "Spring Boot",
+    "Spring Data JPA",
+    "Hibernate",
+    "Python",
+    "Django",
+    "Django REST Framework",
+    "REST APIs",
+    "JWT Authentication",
+    "DTOs",
+    "Exception Handling",
+  ],
+},
   {
     category: "Database & Testing",
     items: [
