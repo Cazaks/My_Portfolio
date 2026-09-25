@@ -110,7 +110,7 @@ export const projects = [
       "Render",
     ],
     github: "https://github.com/Cazaks/DE_ServiceHuB",
-    demo: "https://de-servicehub.onrender.com",
+    demo: "https://de-servicehub.onrender.com/api/docs/",
     featured: true,
   },
 
