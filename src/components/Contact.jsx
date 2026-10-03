@@ -28,7 +28,7 @@ export default function Contact() {
           <div className="lg:ml-auto lg:w-full">
             <div className="flex flex-col gap-3">
               <a
-                href="mailto:your-email@example.com"
+                href="calebezak@gmail.com"
                 className="group flex items-center justify-between rounded-2xl bg-white px-5 py-4 text-sm font-bold text-slate-950 transition hover:bg-blue-50 sm:px-6 sm:py-5"
               >
                 <span className="flex items-center gap-3">
@@ -43,7 +43,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://github.com/"
+                href="https://github.com/Cazaks"
                 target="_blank"
                 rel="noreferrer"
                 className="group flex items-center justify-between rounded-2xl border border-slate-700 px-5 py-4 text-sm font-bold text-white transition hover:border-blue-400 hover:bg-slate-800 sm:px-6 sm:py-5"
@@ -57,7 +57,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://linkedin.com/"
+                href="www.linkedin.com/in/caleb-ezak-54aa14226"
                 target="_blank"
                 rel="noreferrer"
                 className="group flex items-center justify-between rounded-2xl border border-slate-700 px-5 py-4 text-sm font-bold text-white transition hover:border-blue-400 hover:bg-slate-800 sm:px-6 sm:py-5"
